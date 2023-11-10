@@ -1,5 +1,5 @@
-# PA3
-Repository for PA3
+# Pokemon Game
+
 This Pokemon Game was created as a project for my software engineering class, its main goal is using my knowlwdge in c++ to build something visual and that can be used by an user like a videogame. Another main goal of this project is learninh how to properly use classes in c++. 
 This video gamea is a “simulation” that involves Pokemon battles consisting of objects located in a two-dimensional world that move around and behave in various ways. The user enters commands to tell the objects what to do, and they behave in simulated time. Time is frozen when the user enter command and it then advance ont tick at the time when the user is playing. 
 
